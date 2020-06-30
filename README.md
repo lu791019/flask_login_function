@@ -7,5 +7,5 @@ python login.py
 type "http://127.0.0.1:5000/login" on browser   
 
 ## Action Item
-Is : ID&Password 寫在login.py內   
+Is : ID&Password in login.py
 On-going : try connect to hasura db member table   
